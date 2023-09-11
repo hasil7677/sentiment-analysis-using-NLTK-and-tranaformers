@@ -7,4 +7,6 @@ The following steps were performed:
 4) Then we imported the pretrained model from hugging face called Roberta
 5) The pretrained model also performed the sentiment analysis on the data
 6) The results were compared
-7) 
+7) The hugging face pipeline small example is given in the end
+
+   I couldnt have done this without the help of Mr.Rob Mulla His teaching helped me make this project. All credits to him
